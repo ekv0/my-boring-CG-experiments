@@ -1,0 +1,15 @@
+texture/
+|-- image.cc
+|-- main.cc
+|-- makefile
+|-- point.cc
+|-- point.hh
+|-- rgb.cc
+|-- rgb.hh
+|-- shader.cc
+|-- shader.hh
+|-- texture.cc
+|-- texture.hh
+|-- trivial.frag
+|-- trivial.vert
+|-- wall.jpg
